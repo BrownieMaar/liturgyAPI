@@ -1,0 +1,44 @@
+{
+    "liturgy": {
+        "missa": [
+            {
+                "owner": "Barna Márton",
+                "destination": "Angyalföldi Szent Mihály plébániatemplom",
+                "id": 0,
+                "name": "példa",
+                "type": "missa",
+                "structure": [
+                    {
+                        "type": "Graduale",
+                        "cantus-id": "g01242",
+                        "variations": [
+                            {
+                                "lang": "magyar",
+                                "text": [
+                                    [
+                                        "Uram,",
+                                        "te lettél a mi menedékünk",
+                                        "nemzedékről nemzedékre."
+                                    ],
+                                    [
+                                        "Mielőtt lettek a hegyek,",
+                                        "és formáltatott a föld és a világ,",
+                                        "mindöröktől és örökké vagy te, ó Isten!"
+                                    ],
+                                    [
+                                        "Lássék meg szolgáidon a te műved,",
+                                        "és fiaikon a te dicsőséged."
+                                    ]
+                                ],
+                                "source": [
+                                    "Éneklő Egyház 627.",
+                                    "Graduale Hungaricum 380."
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
